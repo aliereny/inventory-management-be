@@ -7,7 +7,7 @@
   "author": "Eren Yogurtcu <aeren.yogurtcu@gmail.com>",
   "license": "MIT",
   "private": false,
-  "scripts": {
+  "scripts": {g
     "start": "node index.js"
   }
 }
