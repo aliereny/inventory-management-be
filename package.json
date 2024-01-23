@@ -1,0 +1,10 @@
+{
+  "name": "inventory-management",
+  "version": "1.0.0",
+  "description": "Web Service for Real-Time Dashboard for E-commerce Inventory Management",
+  "main": "index.js",
+  "repository": "https://github.com/aliereny/inventory-management-be",
+  "author": "Eren Yogurtcu <aeren.yogurtcu@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
